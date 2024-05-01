@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning .net latest features 
 - 💞️ I’m looking to collaborate on .net web api projects or web apps
 - 📫 How to reach me @m.aminikhalkhaali@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 mohammadAmn-1998/mohammadAmn-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
