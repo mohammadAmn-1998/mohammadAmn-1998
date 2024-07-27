@@ -1,6 +1,6 @@
 - 👋 Hi, I’m .net backend developer
 - 👀 I’m interested in web and api developing
-- 🌱 I’m currently learning .net latest features 
+  
 - 💞️ I’m looking to collaborate on .net web api projects or web apps
 - 📫 How to reach me @m.aminikhalkhaali@gmail.com
 
