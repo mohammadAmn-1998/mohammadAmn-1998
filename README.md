@@ -1,11 +1,6 @@
-- 👋 Hi, I’m .net backend developer
-- 👀 I’m interested in web and api developing
-  
-- 💞️ I’m looking to collaborate on .net web api projects or web apps
-- 📫 How to reach me @m.aminikhalkhaali@gmail.com
-
-
-<!---
-mohammadAmn-1998/mohammadAmn-1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Mohammad
+💻 .NET Backend Developer | Web & API Enthusiast
+⚡ Skills: ASP.NET Core, Minimal APIs, Entity Framework, LINQ, React, Formik, Bootstrap, SQL, Postman
+🌱 Learning: Advanced React patterns, TypeScript, modern web dev practices
+💞️ Collaboration: Open to .NET Web API & Full-Stack projects
+📫 Contact: m.aminikhalkhaali@gmail.com
