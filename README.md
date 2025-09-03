@@ -1,4 +1,4 @@
-👋 Hi, I’m Mohammad
+👋 Hi, I’m Mohammad Amini
 
 💻 .NET Backend Developer | Web & API Enthusiast 
 
